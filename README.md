@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 ----
 https://telegra.ph/file/e2eed32caf332b935dc0a.jpg
 
+<p align="center">
+    <img src"https://telegra.ph/file/e2eed32caf332b935dc0a.jpg">
+</p>
